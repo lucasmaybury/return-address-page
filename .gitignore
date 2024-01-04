@@ -1,0 +1,5 @@
+﻿node_modules
+public/*
+service_account_credentials.json
+.vscode
+.env

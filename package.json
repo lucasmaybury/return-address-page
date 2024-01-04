@@ -1,0 +1,18 @@
+{
+  "name": "return-address-finder-server",
+  "version": "1.0.0",
+  "author": "Lucas Maybury",
+  "engines" : { 
+    "node" : "20.4.0" 
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "googleapis": "^129.0.0",
+    "nodemon": "^3.0.2"
+  }
+}
